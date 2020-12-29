@@ -8,6 +8,6 @@
 
 ## Look to some screenshots.
 
-![ByteCoin](Documentation/ByteCoin1.png)
+![ByteCoin](Documentation/ByteCoin1.jpeg)
 
-![ByteCoin](Documentation/ByteCoin2.png)
+![ByteCoin](Documentation/ByteCoin2.jpeg)
